@@ -44,13 +44,6 @@
 
 ---
 
-## 📊 Estatísticas
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=VictorMendesON&theme=tokyonight&hide_border=true"/>
-</p>
----
-
 ## 📈 Atividade
 
 <p align="center">

@@ -1,71 +1,66 @@
-<!-- BANNER ANIMADO -->
+# 🚀 Victor Mendes | Front-End Developer
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Victor%20Mendes&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-</p>
-
-<!-- TEXTO ANIMADO -->
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Front-End+Developer;Vue+%7C+TypeScript+%7C+Tailwind;Construindo+interfaces+modernas;Em+busca+da+primeira+oportunidade" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VictorMendesONB&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="170" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorMendesON&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" height="170" alt="Languages" />
+</div>
 
 ---
 
-## 🚀 Sobre mim
+### ⚡ Sobre a minha stack
+Sou um desenvolvedor focado em construir ecossistemas digitais que unem **performance extrema** e **experiência de usuário refinada**. Atualmente, dedico minha energia ao ecossistema Vue, aplicando arquiteturas escaláveis e "Clean Code na veia".
 
-💻 Desenvolvedor Front-End apaixonado por criar interfaces modernas, responsivas e bem estruturadas.
-
-🎯 Atualmente focado em evoluir minhas habilidades em:
-
-* Vue.js
-* TypeScript
-* TailwindCSS
-
-🚀 Buscando minha primeira oportunidade como desenvolvedor.
+* **Core:** Vue.js 3 (Composition API) & Nuxt.js
+* **Typing:** TypeScript (strict mode por padrão)
+* **Styling:** Tailwind CSS & Design Systems
+* **Backend & Ops:** Bun runtime, Node.js e Administração de Sistemas
 
 ---
 
-## 🛠️ Tecnologias
+### 🛠️ Toolbox Tecnológica
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,tailwind,git" />
-</p>
-
----
-
-## 📊 Estatísticas
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorMendesON&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorMendesON&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-</p>
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Frontend** | `Vue.js 3` `Nuxt.js` `TypeScript` `Pinia` `Vite` |
+| **Styling** | `Tailwind CSS` `Sass` `Headless UI` `Lucide Icons` |
+| **Backend/Tooling** | `Node.js` `Bun` `PostgreSQL` `Docker` |
+| **Workflow** | `Git` `Agile/Scrum` `Clean Architecture` |
 
 ---
 
-## 🔥 Consistência
+### 🏛️ Projetos em Destaque (CBPF)
+Colaboro no desenvolvimento de sistemas críticos para o **Centro Brasileiro de Pesquisas Físicas**, transformando requisitos complexos em interfaces intuitivas:
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=VictorMendesON&theme=tokyonight&hide_border=true&background=0d1117"/>
-</p>
-
----
-
-## 📈 Contribuições
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VictorMendesON&theme=tokyo-night&hide_border=true&bg_color=0d1117"/>
-</p>
+* **AIGIS:** Refatoração de sistema de segurança institucional com integração SSO e gestão de acessos.
+* **Unipósrio:** Modernização da plataforma acadêmica com foco em UX e integridade de dados.
+* **Gestão de Inventário:** Implementação de consultas SQL complexas e modelagem ERD para controle de suprimentos.
 
 ---
 
-## 🌐 Contato
+### 📈 Engenharia de Software & Consistência
+> "Código limpo não é sobre estética, é sobre sustentabilidade técnica."
 
-<p align="center">
-  <a href="https://linkedin.com/in/SEU_LINK">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<div align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VictorMendesON&theme=tokyonight&hide_border=true" alt="Streak" />
+</div>
+
+---
+
+### 🌐 Vamos conectar?
+Estou sempre aberto a discussões sobre arquitetura de software, novas tecnologias ou oportunidades que desafiem meu limite técnico.
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/victor-mendes-0a9b75215/?skipRedirect=true" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:victormendesdev@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <a href="mailto:victormendesdevv@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+</div>
+
+<br />
+
+---
+<p align="center">
+  <i>"Transformando café e café em interfaces de alto nível."</i>
 </p>

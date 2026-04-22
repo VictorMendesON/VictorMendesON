@@ -8,13 +8,6 @@
 
 ---
 
-## 🕹️ GitHub Contribution Snake (Live View)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/VictorMendesON/VictorMendesON/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
-
----
-
 ## 🚀 Tech Stack & Skills
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vue,nuxt,ts,tailwind,html,css,js,bun,vite,git,github,vscode,mongodb,figma" />

@@ -32,19 +32,6 @@
 
 ---
 
-## 🛠️ Projetos de Elite
-
-<p align="center">
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictorMendesON&repo=NOME_DO_SEU_PROJETO&theme=tokyonight&show_owner=true" />
-  </a>
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictorMendesON&repo=OUTRO_PROJETO&theme=tokyonight&show_owner=true" />
-  </a>
-</p>
-
----
-
 ## 📈 Live Metrics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VictorMendesON&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" width="48%" />

@@ -15,17 +15,21 @@
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
-       <h3> 💻 Atuação & Foco </h3>
-       <ul>
-         <li><b>Arquitetura:</b> Clean Code & Design Patterns</li>
-         <li><b>Estética:</b> Interfaces Premium e High-Fidelity</li>
-         <li><b>Performance:</b> Web Vitals e Otimização Nuxt</li>
-       </ul>
+    <td width="50%" align="center" valign="top">
+        <br>
+        <img src="https://img.shields.io/badge/-Atuação%20%26%20Foco-0d1117?style=for-the-badge&labelColor=0d1117&color=00F7FF" />
+        <p align="left">
+          <br>
+          • <b>Arquitetura:</b> Clean Code & Design Patterns<br>
+          • <b>Estética:</b> Interfaces Premium e High-Fidelity<br>
+          • <b>Performance:</b> Web Vitals e Otimização Nuxt
+        </p>
     </td>
-    <td width="50%" valign="top">
-       <h3> 📊 Most Used Languages </h3>
-       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorMendesON&layout=compact&theme=tokyonight&hide_border=true&title_color=00F7FF" width="100%"/>
+    <td width="50%" align="center" valign="top">
+        <br>
+        <img src="https://img.shields.io/badge/-Most%20Used%20Languages-0d1117?style=for-the-badge&labelColor=0d1117&color=00F7FF" />
+        <br><br>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorMendesON&layout=compact&theme=tokyonight&hide_border=true&title_color=00F7FF&bg_color=0d1117" width="90%"/>
     </td>
   </tr>
 </table>

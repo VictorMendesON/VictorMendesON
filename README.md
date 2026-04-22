@@ -9,30 +9,26 @@
 ---
 
 ## 🚀 Tech Stack & Skills
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vue,nuxt,ts,tailwind,html,css,js,bun,vite,git,github,vscode,mongodb,figma" />
 </p>
 
-<table width="100%">
-  <tr>
-    <td width="50%" align="center" valign="top">
-        <br>
-        <img src="https://img.shields.io/badge/-Atuação%20%26%20Foco-0d1117?style=for-the-badge&labelColor=0d1117&color=00F7FF" />
-        <p align="left">
-          <br>
-          • <b>Arquitetura:</b> Clean Code & Design Patterns<br>
-          • <b>Estética:</b> Interfaces Premium e High-Fidelity<br>
-          • <b>Performance:</b> Web Vitals e Otimização Nuxt
-        </p>
-    </td>
-    <td width="50%" align="center" valign="top">
-        <br>
-        <img src="https://img.shields.io/badge/-Most%20Used%20Languages-0d1117?style=for-the-badge&labelColor=0d1117&color=00F7FF" />
-        <br><br>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorMendesON&layout=compact&theme=tokyonight&hide_border=true&title_color=00F7FF&bg_color=0d1117" width="90%"/>
-    </td>
-  </tr>
-</table>
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorMendesON&layout=compact&theme=tokyonight&hide_border=true&title_color=00F7FF&text_color=ffffff&bg_color=0d1117&langs_count=8" width="60%" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/FOCUS-CRAFTING%20PREMIUM%20EXPERIENCES-00F7FF?style=for-the-badge&logo=visual-studio-code&logoColor=black&labelColor=00F7FF&color=0d1117" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=ffffff&center=true&vCenter=true&width=600&lines=Arquitetura:+Clean+Code+%26+Design+Patterns;Estética:+Interfaces+High-Fidelity;Performance:+Web+Vitals+%26+Nuxt+Opt" />
+</p>
 
 ---
 

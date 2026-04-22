@@ -1,9 +1,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:00F7FF&height=280&section=header&text=Victor%20Mendes&fontSize=50&fontColor=ffffff&fontAlignY=38&stroke=00F7FF&strokeWidth=1.2&animation=twinkling&desc=Building%20Visual%20Distinctions" width="100%"/>
-</p
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Front-End+Developer;Vue.js+Expert;Nuxt.js+Lover;Building+Premium+Experiences" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Front-End+Developer;Vue.js+Expert;Nuxt.js+Lover;Building+Premium+Experiences" />
 </p>
 
 ---

@@ -1,5 +1,5 @@
 # ⚡ Victor Mendes
-### Front-End Developer | Vue.js Expert | Nuxt.js Lover
+### Front-End Developer
 
 <p align="left">
   <img src="https://img.shields.io/badge/FOCUS-CRAFTING%20PREMIUM%20EXPERIENCES-00F7FF?style=for-the-badge&logo=visual-studio-code&logoColor=black&labelColor=00F7FF&color=0d1117" />
@@ -31,18 +31,9 @@
 
 ## 📈 GitHub Metrics
 
-O GitHub às vezes bloqueia carregamentos dinâmicos simultâneos. Para garantir a renderização, as métricas abaixo foram consolidadas de forma limpa:
-
-<table border="0">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=VictorMendesON&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" width="100%" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://streak-stats.demolab.com?user=VictorMendesON&theme=tokyonight&hide_border=true" width="100%" />
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=VictorMendesON&theme=tokyonight&hide_border=true" height="180" />
+</p>
 
 ---
 

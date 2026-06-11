@@ -14,7 +14,7 @@
 
 <!-- SUBTÍTULO AUTORAL -->
 <p align="center">
-  🚀 <strong>Desenvolvedor Front-End Premium</strong>
+  🚀 <strong>Desenvolvedor Front-End</strong>
 </p>
 <p align="center">
   Traduzindo designs ambiciosos em interfaces fluidas, rápidas e visualmente impactantes.

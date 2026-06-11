@@ -1,49 +1,120 @@
-# ⚡ Victor Mendes
-### Front-End Developer
+<!-- CAPA DE CABEÇALHO -->
+<p align="center">
+  <img src="https://img.shields.io/badge/CÓDIGO_LIMPO_•_PREMIUM_UI%2FUX-000000?style=for-the-badge&logo=codeforces&logoColor=FFD700" alt="Código Limpo e Premium UI">
+  <img src="https://img.shields.io/badge/FLAMENGO_•_MAIOR_DO_MUNDO-E21A0C?style=for-the-badge&logo=footy&logoColor=white" alt="Flamengo">
+</p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/FOCUS-CRAFTING%20PREMIUM%20EXPERIENCES-00F7FF?style=for-the-badge&logo=visual-studio-code&logoColor=black&labelColor=00F7FF&color=0d1117" />
+<!-- TÍTULO PRINCIPAL -->
+<h1 align="center">
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">
+    <a href="https://www.linkedin.com/in/SEU_LINKEDIN/" target="_blank">Olá! Eu sou o Victor Mendes</a>
+  </p>
+</h1>
+
+<!-- SUBTÍTULO AUTORAL -->
+<p align="center">
+  🚀 <strong>Desenvolvedor Front-End Premium</strong>
+</p>
+<p align="center">
+  Traduzindo designs ambiciosos em interfaces fluidas, rápidas e visualmente impactantes.
 </p>
 
 ---
 
-## 🚀 Tech Stack & Skills
+<!-- SEÇÃO: SOBRE MIM (Em formato de "perfil tech") -->
+## 👨🏾‍💻 `>_ quem_sou_eu.md`
 
-### 🛠️ Core Technologies
-<p align="left">
-  <a href="https://vuejs.org/" target="_blank"><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" /></a>
-  <a href="https://nuxt.com/" target="_blank"><img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /></a>
-</p>
-
-### 🧰 Tools & Ecosystem
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bun,vite,git,github,mongodb,figma" />
-</p>
-
-> 💡 **Filosofia de Desenvolvimento:**
-> * **Arquitetura:** Clean Code & Design Patterns
-> * **Estética:** Interfaces High-Fidelity
-> * **Performance:** Web Vitals & Nuxt Optimization
-
----
-
-## 📈 GitHub Metrics
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=VictorMendesON&theme=tokyonight&hide_border=true" height="180" />
-</p>
+<table>
+  <tr>
+    <td width="60%">
+      <p>Sou um apaixonado por transformar códigos complexos em experiências de usuário excepcionais.</p>
+      <ul>
+        <li>🌟 <strong>Foco:</strong> Performance, Responsividade e Micro-interações.</li>
+        <li>🛠️ <strong>Princípios:</strong> SOLID, Clean Code e DX (Developer Experience).</li>
+        <li>⚽ <strong>Além do Código:</strong> Apaixonado por futebol, churrasco e um bom som.</li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+      <!-- Mantenha o seu emoji/avatar favorito aqui se quiser -->
+      <img alt="Victor emoji" width="160" src="https://user-images.githubusercontent.com/90162541/165305706-19abefef-9d7b-4a47-8a7d-9e2cd44e70b4.png">
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🌐 Let's Connect
+<!-- SEÇÃO: TECH STACK ORGANIZADA -->
+## 🛠️ `>_ arsenal_tecnologico.config`
 
-<p align="left">
-  <a href="https://linkedin.com/in/victor-mendes-0a9b75215" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<p>Uma curadoria de ferramentas focadas em eficiência e qualidade visual.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th align="left">🚀 Core & Frameworks</th>
+      <th align="left">💅 Estilização & UI</th>
+      <th align="left">🔧 Ferramentas & Runtime</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td valign="top">
+        • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="16"> Vue.js<br>
+        • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" width="16"> Nuxt.js<br>
+        • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16"> TypeScript<br>
+      </td>
+      <td valign="top">
+        • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="16"> Tailwind CSS<br>
+        • <img src="https://img.shields.io/badge/-Premium%20UI-gold?style=flat-square&logo=react-native&logoColor=gold" width="16"> Alta Fidelidade<br>
+        • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="16"> Figma<br>
+      </td>
+      <td valign="top">
+        • <img src="https://user-images.githubusercontent.com/7065401/213233519-7925ab5c-6b3a-4467-9bf4-0e0600a9446d.png" width="16"> Bun<br>
+        • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="16"> Vite<br>
+        • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="16"> Node.js<br>
+        • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="16"> Git<br>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+<!-- SEÇÃO: ESTATÍSTICAS E CONEXÃO -->
+## 📊 `>_ dados_em_tempo_real.json`
+
+<p align="center">
+  <a href="https://github.com/SEU_USUARIO">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=nord&include_all_commits=true&count_private=true" />
   </a>
-  <a href="mailto:victormendesdev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://github.com/SEU_USUARIO">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=6&theme=nord" />
   </a>
+</p>
+
+<!-- SEÇÃO DE CONTATOS (REORGANIZADA) -->
+<p align="center">
+  <br>
+  <a href="mailto:SEU_EMAIL@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/SEU_LINKEDIN/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
+
+---
+
+<!-- ASSINATURA AUTORAL FINAL -->
+## 💭 A Filosofia do Código
+
+> "Um código não está pronto quando não há mais nada a adicionar, mas quando não há mais nada a retirar." - *Alguém esperto (e eu concordo).*
+
+---
+
+<!-- SNAKE ANIMATION (Para fechar) -->
+### 🐍 `>_ contribuicoes.log`
+<p align="center">
+  <img src="https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </p>

@@ -1,7 +1,7 @@
 <!-- CAPA DE CABEÇALHO -->
 <p align="center">
   <img src="https://img.shields.io/badge/CÓDIGO_LIMPO_•_PREMIUM_UI%2FUX-000000?style=for-the-badge&logo=codeforces&logoColor=FFD700" alt="Código Limpo e Premium UI">
-  <img src="https://img.shields.io/badge/FLAMENGO_•_MAIOR_DO_MUNDO-E21A0C?style=for-the-badge&logo=footy&logoColor=white" alt="Flamengo">
+  <img src="https://img.shields.io/badge/FRONT_END_•_DEVELOPER-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Front-End">
 </p>
 
 <!-- TÍTULO PRINCIPAL -->
@@ -22,21 +22,20 @@
 
 ---
 
-<!-- SEÇÃO: SOBRE MIM (Em formato de "perfil tech") -->
+<!-- SEÇÃO: SOBRE MIM -->
 ## 👨🏾‍💻 `>_ quem_sou_eu.md`
 
 <table>
   <tr>
     <td width="60%">
-      <p>Sou um apaixonado por transformar códigos complexos em experiências de usuário excepcionais.</p>
+      <p>Sou um apaixonado por transformar códigos complexos em experiências de usuário excepcionais, prezando sempre pela simetria e alta fidelidade visual.</p>
       <ul>
         <li>🌟 <strong>Foco:</strong> Performance, Responsividade e Micro-interações.</li>
         <li>🛠️ <strong>Princípios:</strong> SOLID, Clean Code e DX (Developer Experience).</li>
-        <li>⚽ <strong>Além do Código:</strong> Apaixonado por futebol, churrasco e um bom som.</li>
+        <li>🎯 <strong>Objetivo:</strong> Entregar experiências de usuário (UX) muito acima da média do mercado.</li>
       </ul>
     </td>
     <td width="40%" align="center">
-      <!-- Mantenha o seu emoji/avatar favorito aqui se quiser -->
       <img alt="Victor emoji" width="160" src="https://user-images.githubusercontent.com/90162541/165305706-19abefef-9d7b-4a47-8a7d-9e2cd44e70b4.png">
     </td>
   </tr>
@@ -93,7 +92,7 @@
   </a>
 </p>
 
-<!-- SEÇÃO DE CONTATOS (REORGANIZADA) -->
+<!-- SEÇÃO DE CONTATOS -->
 <p align="center">
   <br>
   <a href="mailto:SEU_EMAIL@gmail.com" target="_blank">
@@ -109,11 +108,11 @@
 <!-- ASSINATURA AUTORAL FINAL -->
 ## 💭 A Filosofia do Código
 
-> "Um código não está pronto quando não há mais nada a adicionar, mas quando não há mais nada a retirar." - *Alguém esperto (e eu concordo).*
+> "Um código não está pronto quando não há mais nada a adicionar, mas quando não há mais nada a retirar." - *Refletindo o foco em simplicidade, performance e refatoração.*
 
 ---
 
-<!-- SNAKE ANIMATION (Para fechar) -->
+<!-- SNAKE ANIMATION -->
 ### 🐍 `>_ contribuicoes.log`
 <p align="center">
   <img src="https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">

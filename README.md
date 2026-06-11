@@ -8,7 +8,7 @@
 <h1 align="center">
   <p align="center">
     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">
-    <a href="https://www.linkedin.com/in/SEU_LINKEDIN/" target="_blank">Olá! Eu sou o Victor Mendes</a>
+    <a href="https://www.linkedin.com/in/victor-mendes-0a9b75215/" target="_blank">Olá! Eu sou o Victor Mendes</a>
   </p>
 </h1>
 
@@ -85,20 +85,20 @@
 
 <p align="center">
   <a href="https://github.com/VictorMendesON">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=nord&include_all_commits=true&count_private=true" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=VictorMendesON&show_icons=true&theme=nord&include_all_commits=true&count_private=true" />
   </a>
   <a href="https://github.com/VictorMendesON">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=6&theme=nord" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorMendesON&layout=compact&langs_count=6&theme=nord" />
   </a>
 </p>
 
 <!-- SEÇÃO DE CONTATOS -->
 <p align="center">
   <br>
-  <a href="mailto:SEU_EMAIL@gmail.com" target="_blank">
+  <a href="mailto:victormendesdevv@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN/" target="_blank">
+  <a href="https://www.linkedin.com/in/victor-mendes-0a9b75215/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>

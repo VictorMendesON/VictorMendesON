@@ -36,7 +36,7 @@
       </ul>
     </td>
     <td width="40%" align="center">
-      <img alt="Victor emoji" width="1480" height="720" alt="avatar" src="https://github.com/user-attachments/assets/29573f36-8239-43a6-9897-ffa32a84883b" />
+      <img alt="Victor emoji" width="1536" height="1024" alt="avatar3" src="https://github.com/user-attachments/assets/8d8c3a5c-fc76-4f66-bcb5-8803595a7f7f" />
     </td>
   </tr>
 </table>

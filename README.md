@@ -84,10 +84,10 @@
 ## 📊 `>_ dados_em_tempo_real.json`
 
 <p align="center">
-  <a href="https://github.com/SEU_USUARIO">
+  <a href="https://github.com/VictorMendesON">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=nord&include_all_commits=true&count_private=true" />
   </a>
-  <a href="https://github.com/SEU_USUARIO">
+  <a href="https://github.com/VictorMendesON">
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=6&theme=nord" />
   </a>
 </p>

@@ -80,16 +80,6 @@
 
 ---
 
-<!-- SEÇÃO: ESTATÍSTICAS E CONEXÃO -->
-<p align="center">
-  <a href="https://github.com/VictorMendesON">
-    <img height="150em" src="https://github-readme-stats-eight.vercel.app/api?username=VictorMendesON&show_icons=true&theme=nord&include_all_commits=true&count_private=true&cache_seconds=86400" />
-  </a>
-  <a href="https://github.com/VictorMendesON">
-    <img height="150em" src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=VictorMendesON&layout=compact&langs_count=6&theme=nord&cache_seconds=86400" />
-  </a>
-</p>
-
 <!-- SEÇÃO DE CONTATOS -->
 <p align="center">
   <br>

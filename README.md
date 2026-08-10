@@ -81,14 +81,6 @@
 ---
 
 <!-- SEÇÃO: ESTATÍSTICAS E CONEXÃO -->
-
-<!--
-  A API oficial (github-readme-stats.vercel.app) foi DESLIGADA de vez pelo
-  mantenedor após o fim do patrocínio da Vercel — não é mais um problema
-  intermitente. Usando aqui um fork comunitário ativo como substituto rápido.
-  Solução definitiva a médio prazo: fork de
-  https://github.com/anuraghazra/github-readme-stats no seu próprio Vercel.
--->
 <p align="center">
   <a href="https://github.com/VictorMendesON">
     <img height="150em" src="https://github-readme-stats-eight.vercel.app/api?username=VictorMendesON&show_icons=true&theme=nord&include_all_commits=true&count_private=true&cache_seconds=86400" />

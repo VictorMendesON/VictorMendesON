@@ -56,64 +56,6 @@
       <th align="left">🔧 Ferramentas & Runtime</th>
     </tr>
   </thead>
-  <!-- CAPA DE CABEÇALHO -->
-<p align="center">
-  <img src="https://img.shields.io/badge/CÓDIGO_LIMPO_•_PREMIUM_UI%2FUX-000000?style=for-the-badge&logo=codeforces&logoColor=FFD700" alt="Código Limpo e Premium UI">
-  <img src="https://img.shields.io/badge/FRONT_END_•_DEVELOPER-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Front-End">
-</p>
-
-<!-- TÍTULO PRINCIPAL -->
-<h1 align="center">
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">
-    <a href="https://www.linkedin.com/in/victor-mendes-0a9b75215/" target="_blank">Olá! Eu sou o Victor Mendes</a>
-  </p>
-</h1>
-
-<!-- SUBTÍTULO AUTORAL -->
-<p align="center">
-  🚀 <strong>Desenvolvedor Front-End</strong>
-</p>
-<p align="center">
-  Traduzindo designs ambiciosos em interfaces fluidas, rápidas e visualmente impactantes.
-</p>
-
----
-
-<!-- SEÇÃO: SOBRE MIM -->
-## 👨🏾‍💻 `>_ quem_sou_eu.md`
-
-<table>
-  <tr>
-    <td width="60%">
-      <p>Sou um apaixonado por transformar códigos complexos em experiências de usuário excepcionais, prezando sempre pela simetria e alta fidelidade visual.</p>
-      <ul>
-        <li>🌟 <strong>Foco:</strong> Performance, Responsividade e Micro-interações.</li>
-        <li>🛠️ <strong>Princípios:</strong> SOLID, Clean Code e DX (Developer Experience).</li>
-        <li>🎯 <strong>Objetivo:</strong> Entregar experiências de usuário (UX) muito acima da média do mercado.</li>
-      </ul>
-    </td>
-    <td width="40%" align="center">
-      <img alt="Victor emoji" width="1019" height="720" src="https://github.com/user-attachments/assets/1ddacccb-8fb1-457c-b6f6-359f6b584dad" />
-    </td>
-  </tr>
-</table>
-
----
-
-<!-- SEÇÃO: TECH STACK ORGANIZADA -->
-## 🛠️ `>_ arsenal_tecnologico.config`
-
-<p>Uma curadoria de ferramentas focadas em eficiência e qualidade visual.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th align="left">🚀 Core & Frameworks</th>
-      <th align="left">💅 Estilização & UI</th>
-      <th align="left">🔧 Ferramentas & Runtime</th>
-    </tr>
-  </thead>
   <tbody>
     <tr>
       <td valign="top">
@@ -137,35 +79,6 @@
     </tr>
   </tbody>
 </table>
-
----
-
-<!-- SEÇÃO DE CONTATOS -->
-<p align="center">
-  <br>
-  <a href="mailto:victormendesdevv@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://www.linkedin.com/in/victor-mendes-0a9b75215/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
-
----
-
-<!-- ASSINATURA AUTORAL FINAL -->
-## 💭 A Filosofia do Código
-
-> "Um código não está pronto quando não há mais nada a adicionar, mas quando não há mais nada a retirar." - *Refletindo o foco em simplicidade, performance e refatoração.*
-
----
-
-<!-- SNAKE ANIMATION -->
-### 🐍 `>_ contribuicoes.log`
-<p align="center">
-  <img src="https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
-</p>
-
 
 ---
 

@@ -81,7 +81,6 @@
 ---
 
 <!-- SEÇÃO: ESTATÍSTICAS E CONEXÃO -->
-## 📊 `>_ dados_em_tempo_real.json`
 
 <!--
   A API oficial (github-readme-stats.vercel.app) foi DESLIGADA de vez pelo

@@ -36,7 +36,7 @@
       </ul>
     </td>
     <td width="40%" align="center">
-      <img alt="Victor emoji" width="1019" height="720" alt="avatar2" src="https://github.com/user-attachments/assets/1ddacccb-8fb1-457c-b6f6-359f6b584dad" />
+      <img alt="Victor emoji" width="1019" height="720" src="https://github.com/user-attachments/assets/1ddacccb-8fb1-457c-b6f6-359f6b584dad" />
     </td>
   </tr>
 </table>
@@ -83,12 +83,18 @@
 <!-- SEÇÃO: ESTATÍSTICAS E CONEXÃO -->
 ## 📊 `>_ dados_em_tempo_real.json`
 
+<!--
+  Se as imagens abaixo continuarem quebradas, é porque a API pública
+  github-readme-stats.vercel.app está sobrecarregada (comum, não é erro seu).
+  Solução definitiva: faça fork de https://github.com/anuraghazra/github-readme-stats
+  e deploy no seu próprio Vercel (grátis), trocando o domínio abaixo pelo seu.
+-->
 <p align="center">
   <a href="https://github.com/VictorMendesON">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=VictorMendesON&show_icons=true&theme=nord&include_all_commits=true&count_private=true" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=VictorMendesON&show_icons=true&theme=nord&include_all_commits=true&count_private=true&cache_seconds=86400" />
   </a>
   <a href="https://github.com/VictorMendesON">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorMendesON&layout=compact&langs_count=6&theme=nord" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorMendesON&layout=compact&langs_count=6&theme=nord&cache_seconds=86400" />
   </a>
 </p>
 
